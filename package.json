@@ -1,0 +1,11 @@
+{
+  "name": "my-marmiton",
+  "version": "1.0.0",
+  "description": "This is an API where we can collecte many recipies (CRUD) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "david do",
+  "license": "ISC"
+}
